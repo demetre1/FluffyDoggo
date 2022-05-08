@@ -1,0 +1,193 @@
+body{
+  text-align: center;
+}
+.white-section{
+  color: black;
+  background-color: #fff;
+}
+.card-title{
+  
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.btn{
+  margin:20px 0;
+}
+.nav-item{
+  padding:0 25px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 1.3rem;
+
+}
+#title .container-fluid{
+  padding:3% 15% 7% ;
+  background-color: #0DC1BB ;
+  text-align:left ;
+  color:#fff;
+}
+.container-fluid{
+  padding: 7% 15%;
+}
+
+
+
+/* title Section */
+#title-head{
+ font-family: "Ubuntu";
+ font-size: 2.5rem;
+ color: #fff;
+}
+
+
+
+
+
+h1 h2 h3 h4 h5 h6{
+  font-family: 'Montserrat';
+}
+h1{
+  
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 4.5rem;
+  
+}
+p{
+  color:#858585;
+}
+.Pricing-text{
+  
+  font-family: 'Montserrat';
+  font-weight: 900;
+  padding: 3% 3%;
+}
+
+.price-text{
+  font-family: 'Montserrat';
+  line-height: 1.5rem;
+  font-weight: 700;
+}
+.features-title{
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 2.5rem;
+  font-family: 'Montserrat';
+}
+
+.Action-title{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  
+  color:#fff;
+}
+p{
+  
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.card-body{
+  
+  width: 100%;
+  
+}
+.tittle-iamge{
+  
+  position: absolute;
+  transform: rotate(25deg);
+  right: 30%;
+  width: 20%;
+}
+
+
+.tittle-btn{
+  font-size:25px ;
+  margin-right: 25px;
+}
+/* Feature section */
+#features{
+  position: relative;
+  z-index: 1;
+  
+}
+
+.features-icon{
+  
+  color:#1783D8 ;
+  
+}
+
+.features-icon:hover{
+  color:#024AB1  ;
+}
+.tittle-icon{
+  padding:0 10px 0 0;
+  font-size:25px;
+}
+
+.colored-section{
+  background-color: #0DC1BB;
+  color: #fff;
+}
+
+/* Testimonial Section */
+.testimonial-text{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  color: #fff;
+}
+#testimonials{
+  
+  
+  background-color: #25C6CE;
+
+}
+#press{
+  background-color: #25C6CE;
+  
+  padding: 20px 0px;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width:10%;
+  margin: 20px;
+
+}
+
+/* Call of Action  */
+
+.Action-icon{
+  margin-right: 5px ;
+}
+
+/* Press section */
+.press-img{
+  padding: 0 3.125rem ;
+  width: 15%;
+}
+/* Footer */
+
+.social-icon{
+  margin: 20px 10px;
+  font-size: xx-large;
+}
+
+/* pricing section */
+.Sing-up-btn{
+  width: 100%;
+  
+  font-size: x-large;
+}
+@media (max-width: 1420px) {
+  .tittle-iamge{
+    position: relative;
+    bottom: 0%;
+    right: 0%;
+    width: 60%;
+    transform: rotate(0deg);
+  }
+}
